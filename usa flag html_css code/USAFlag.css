@@ -1,0 +1,38 @@
+#flag{
+  width: 475px;
+  border: 1px solid #edeff0;
+  margin: 200px auto;
+  position: relative;
+}
+.blue{
+  position: absolute;
+  width: auto;
+  width: 18zpx;
+  background-color: #2a5d81;
+  color: #fff;
+  text-align: center;
+  padding: 6px 0 5px 8px !important;
+  padding: 2px 0 5px 0;
+}
+.blue p{
+  letter-spacing: 12px;
+  height: 14px;
+  font-size: 17px;
+  line-height: 14px;
+  margin: 0;
+}
+p.strip{
+  height: 19.5px;
+  font-weight: bold;
+  text-align: right;
+  padding: 0 5px;
+  margin: 0;
+}
+.red{
+  color: #d9272e;
+  background-color: #d9272e;
+}
+.white{
+  color: #fff;
+  background-color: #fff;
+}
